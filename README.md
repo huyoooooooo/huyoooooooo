@@ -23,7 +23,6 @@ A front-end engineer who works hard to get ahead
 Like photography but did not buy a camera, like swimming but did not hire a coach, like the girl in but very mute, is such an ordinary I also long for the good
 
 ### ✔️ I'm currently learning
-- Typescript + Vue3.0
 - Server Deployment
 - Node.js
 
